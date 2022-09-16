@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.sensor-loader {
+  animation: .5s cubic-bezier(.73,0,.12,1.01) .2s both sensor-loader-animation;
+}
+
+@keyframes sensor-loader-animation {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0%);
+  }
+}
