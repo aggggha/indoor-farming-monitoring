@@ -2,6 +2,7 @@
   "name": "webthing-dashboard-csagri2022",
   "version": "0.1.0",
   "private": true,
+  "author": "Agha Pradipta Merdekawan <82hrumw2b@relay.firefox.com> (http://twitter.com/aggggha)"
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
