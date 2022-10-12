@@ -6,7 +6,7 @@ This dashboard allows you to monitor temperature, humidity and temperature based
 
 ## Getting Started
 
-* Make sure you already have setup your IoT/[WebThings](https://webthings.io/framework/) device, or you can clone [this repo]() as example.
+* Make sure you already have setup your IoT/[WebThings](https://webthings.io/framework/) device, or you can clone [this repo](https://github.com/aggggha/indoor-farming-monitoring/tree/webthing-device) as example.
 * Run  `git clone` to clone this repo and then run `npm run` to run this repo in local server. Just make sure you've run your WebThings device.
 * And, that's it!
 
