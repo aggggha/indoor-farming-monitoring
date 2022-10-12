@@ -2,6 +2,8 @@
 
 This dashboard allows you to monitor temperature, humidity and temperature based on value sent by sensor attached to Wemos/Arduino device. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Dashboard showing temperature, humidity and light intensity values and its graph data](https://github.com/aggggha/indoor-farming-monitoring/blob/main/Capute%20Monitoring%20Dashboard.png?raw=true)
+
 ## Getting Started
 
 * Make sure you already have setup your IoT/[WebThings](https://webthings.io/framework/) device, or you can clone [this repo]() as example.
